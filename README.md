@@ -1,2 +1,2 @@
 # new-stepik-auto-test
-test
+test course https://stepik.org/lesson/187065/step/7?unit=161976
